@@ -40,7 +40,7 @@ collections:
 header_pages:
   - blog.md
   - projects.md
-  - about.markdown
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
